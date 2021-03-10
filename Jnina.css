@@ -1,0 +1,43 @@
+.col-md-4 img {
+    height: 100px;
+    width: 100px;
+}
+.col-md-2 img {
+    height:40px ;
+    width: 40px;
+}
+
+
+.bg-light h3 {
+    color: rgb(48, 73, 16);
+    
+}
+
+
+.container .card {
+    
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+}
+.bouttons {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    display: flex;
+    justify-content: space-around;
+    justify-items: center;
+}
+
+.boutton {
+    display: flex;
+    justify-content: flex-end;
+  margin-right: 5rem;
+  margin-top: 5rem;
+}
+
+.footer {
+    background-image: url("Roots.jpg");
+    }
+.col-md-4 {
+
+}
